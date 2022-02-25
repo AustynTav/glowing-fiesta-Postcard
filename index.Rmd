@@ -1,0 +1,27 @@
+---
+title: "Austyn Tavernier"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am Austyn, this is an example. 
+
+## Education
+
+**University of Oregon** | Eugene, OR
+Third Year Environmentall Science Major 
+
+
+
